@@ -1,1 +1,1 @@
-# CRUD-Nodejs-Prisma
+# CRUD-NestJS-Prisma
